@@ -1,0 +1,60 @@
+<GameData>
+<!-- begin spanish translation -->
+	<LocalizedText>
+--========================================================================================================================
+-- Cheese
+--========================================================================================================================
+		<Replace Tag="LOC_RESOURCE_SUK_CHEESE_NAME" Language="es_ES">
+        	<Text>Queso</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_SUK_CHEESE_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>El queso es un alimento derivado de la leche que se produce en una amplia gama de sabores, texturas y formas. Cientos de tipos de queso de varios países se producen. Sus estilos, texturas y sabores dependen del origen de la leche (incluida la dieta del animal), ya sea que hayan sido pasteurizados, el contenido de grasa, las bacterias y el moho, el procesamiento y el envejecimiento. Las hierbas, las especias o el humo de la madera se pueden usar como agentes aromatizantes. El color amarillo a rojo de muchos quesos, como Red Leicester, se produce al agregar annatto. Se pueden agregar otros ingredientes a algunos quesos, como pimienta negra, ajo, cebollín o arándanos.</Text>
+		</Replace>
+--========================================================================================================================
+-- Camels
+--========================================================================================================================
+		<Replace Tag="LOC_RESOURCE_SUK_CAMEL_NAME" Language="es_ES">
+        	<Text>Camellos</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_SUK_CAMEL_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Los camellos árabes han sido domesticados durante aproximadamente 3.500 años y han sido valorados por mucho tiempo como animales de carga. Pueden transportar grandes cargas de hasta 25 millas por día. Algunas culturas juzgan la riqueza de una persona según el número de camellos que posee. Hoy en día, casi todos los camellos del mundo son animales domésticos. Se encuentran en el norte de África y el suroeste de Asia, y se han introducido en Australia.</Text>
+		</Replace>
+--========================================================================================================================
+-- Obsidian
+--========================================================================================================================
+		<Replace Tag="LOC_RESOURCE_SUK_OBSIDIAN_NAME" Language="es_ES">
+        	<Text>Obsidiana</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_SUK_OBSIDIAN_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>La obsidiana es un tipo de vidrio formado durante las erupciones volcánicas y comparte todas las propiedades físicas básicas del vidrio ordinario. La obsidiana era una parte altamente integrada de la vida diaria y ritual de Mesoamérica, y su uso generalizado y variado puede ser un importante contribuyente a la falta de metalurgia de la región. El material fue muy valorado y se utilizó para todo, desde armamento hasta joyas.</Text>
+		</Replace>
+--========================================================================================================================
+-- Gold
+--========================================================================================================================
+		<Replace Tag="LOC_RESOURCE_GOLD_NAME" Language="es_ES">
+        	<Text>Oro</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_GOLD_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>El oro es un metal suave, brillante y maleable, y ha sido apreciado por hombres y mujeres a lo largo de la historia. Es un metal raro, y su rareza aumenta enormemente su valor. Aunque tiene algunos fines industriales y medicinales, el oro se usa principalmente como moneda o con fines decorativos, adornando joyas, tazas, utensilios y las cómodas de los ricos y poderosos.</Text>
+		</Replace>
+--========================================================================================================================
+-- Shark
+--========================================================================================================================
+		<Replace Tag="LOC_RESOURCE_SUK_SHARK_NAME" Language="es_ES">
+        	<Text>Tiburon</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_SUK_SHARK_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Desde Yucatán hasta las islas del Pacífico, los tiburones juegan un papel destacado en los mitos de origen de muchas sociedades costeras. Cuando los humanos se lanzaron al mar para comerciar y explorar, los encuentros con tiburones mortales se convirtieron en parte de la tradición marinera. En realidad, los tiburones son los que necesitan un repelente: los humanos son mucho más propensos a devorarlos que al revés. En China, una comida de sopa de aleta de tiburón ha servido durante mucho tiempo como símbolo de estatus. En Islandia, el hákarl es un plato nacional preparado con tiburón de Groenlandia. La carne de tiburón es popular en Australia, donde se la conoce como copos. Y en África Oriental y en las islas del Océano Índico, la carne de tiburón se ha comercializado y ha sido una fuente importante de proteínas durante siglos.</Text>
+		</Replace>
+--========================================================================================================================
+-- Bison
+--========================================================================================================================
+		<Replace Tag="LOC_RESOURCE_DLV_BISON_NAME" Language="es_ES">
+        	<Text>Bisonte</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_DLV_BISON_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>El bisonte de América del Norte, que una vez cubrió las Grandes Llanuras en manadas masivas, fue la principal fuente de carne, tendones, huesos y huesos necesarios para la supervivencia de muchas tribus nativas. Cazado hasta casi la extinción por los estadounidenses a finales de 1800, en las últimas décadas, el búfalo ha vuelto debido a los programas de vida silvestre federales y estatales.</Text>
+		</Replace>
+	</LocalizedText>
+<!-- end spanish translation -->
+</GameData>	
